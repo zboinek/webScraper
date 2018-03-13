@@ -1,0 +1,4 @@
+to get dependencies
+> npm install
+To run
+> node server.js
